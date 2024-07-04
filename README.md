@@ -1,3 +1,76 @@
+# Todos List
+
+This project is a simple todo list application built using React.
+
+## Features
+
+- Add new todos
+<!--- Mark todos as completed-->
+- Delete todos
+<!--- Filter todos (All, Active, Completed)-->
+
+## Technologies Used
+
+- React
+- React Router DOM
+- web-vitals
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed.
+
+### Installation
+
+1. Clone the repository:
+  ```
+  git clone https://github.com/dhupurohit/todos-list.git
+  ```
+
+2. Navigate into the project directory:
+```
+  cd todos-list
+```
+
+3. Install dependencies:
+```
+  npm install
+```
+
+### Usage
+
+1. Start the development server:
+```
+  npm start
+```
+
+2. Open your browser and visit `http://localhost:3000` to view the app.
+
+### Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### Contact
+
+Dhruvita Purohit - [Email](mailto:dhupurohit@gmail.com)
+
+Project Link: [https://github.com/dhupurohit/todos-list](https://github.com/dhupurohit/todos-list)
+
+
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
